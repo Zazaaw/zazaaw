@@ -21,7 +21,6 @@ Currently I am working in AncientProject.
 
 ![](https://github.com/zazaaw/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/zazaaw/github-stats/blob/master/generated/languages.svg)
-
 ---
 
 # Talking about Personal Stuffs:
