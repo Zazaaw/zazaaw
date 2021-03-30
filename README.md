@@ -12,8 +12,8 @@
 <a href="https://www.instagram.com/izzawarii"> <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
 <a href="mailto:faizandhilmi@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
 <a href="mailto:faizandhilmi@outlook.com"> <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white" /></p></a>
----
 
+---
 # [Faiz Hazim Hawari's Stats](https://github.com/zazaaw)
 
 <a href="https://github.com/zazaaw/github-stats">
@@ -21,7 +21,7 @@
 ![](https://github.com/zazaaw/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/zazaaw/github-stats/blob/master/generated/languages.svg)
 
-
+---
 Talking about Personal Stuffs:
 
 - 🔭 I’m now studying at [SMAN 5 PEMATANGSIANTAR](http://sekolah.data.kemdikbud.go.id/index.php/chome/profil/50364F58-3127-471B-8D1B-52C68BA4008C)
