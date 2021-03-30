@@ -1,5 +1,6 @@
 <!-- Your title -->
-## Hi, I'm Faiz Hazim Hawari, from Indonesia.
+# Hi there 👋 , I'm Faiz Hazim Hawari!
+Currently I am working in AncientProject. 
 
 ---
 <p align="center">
