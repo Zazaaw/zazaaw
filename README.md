@@ -1,5 +1,5 @@
 <!-- Your title -->
-# Hi there 👋 , I'm Faiz Hazim Hawari! 
+# Hi there 👋 , I'm paiz! 
 
 ---
 <p align="center">
@@ -14,7 +14,7 @@
 <a href="mailto:faizandhilmi@outlook.com"> <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white" /></p></a>
 
 ---
-# [Faiz Hazim Hawari's Stats](https://github.com/zazaaw)
+# [paiz's Stats](https://github.com/zazaaw)
 
 ![](https://github.com/zazaaw/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/zazaaw/github-stats/blob/master/generated/languages.svg)
@@ -22,7 +22,7 @@
 ---
 # Talking about Personal Stuffs:
 
-- 🔭 I’m now studying at [University of North Sumatera](https://www.usu.ac.id/)
+- 🔭 I’m now studying at [University of Sumatera Utara](https://www.usu.ac.id/)
 - 🌱 I’m currently learning Android Development.
 - 📫 How to reach me : [Telegram - Zazaaw](https://t.me/zazaaw)
 - 🌐 Official Website : [Website - Zazaaw](https://Zazaaw.github.io)
