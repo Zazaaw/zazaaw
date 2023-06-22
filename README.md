@@ -3,7 +3,7 @@
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zazaaw/zazaaw/main/me_childhood.png"><br>
+  <img src="https://raw.githubusercontent.com/Zazaaw/zazaaw/main/paiz prop.png"><br>
 </p>
 
 ---
