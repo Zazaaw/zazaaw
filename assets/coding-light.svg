@@ -46,8 +46,8 @@
 </g>
 <g class="bar" style="animation-delay:0.36s">
 <rect x="564.0" y="190" width="52" height="230" rx="10" fill="#f0f0f0"/>
-<rect x="564.0" y="291.8" width="52" height="128.2" rx="10" fill="#0a0a0a" fill-opacity="0.85"/>
-<text x="590.0" y="281.8" text-anchor="middle" style="font:500 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#6e6e6e">5.2h</text>
+<rect x="564.0" y="284.7" width="52" height="135.3" rx="10" fill="#0a0a0a" fill-opacity="0.85"/>
+<text x="590.0" y="274.7" text-anchor="middle" style="font:500 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#6e6e6e">5.4h</text>
 <text x="590.0" y="448" text-anchor="middle" style="font:500 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#6e6e6e">Mon</text>
 </g>
 <text x="690" y="208" style="font:italic 400 24px Georgia, 'Times New Roman', serif;fill:#0a0a0a">languages</text><text x="690" y="241" style="font:400 15px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#0a0a0a">TypeScript</text>
