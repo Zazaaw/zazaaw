@@ -1,0 +1,45 @@
+name: Refresh live cards
+
+on:
+  schedule:
+    - cron: "17 23 * * *" # 06:17 WIB every day
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/scripts/activity.mjs"
+      - ".github/scripts/coding.mjs"
+      - ".github/workflows/activity.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: live-cards
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Draw the card
+        run: node .github/scripts/activity.mjs
+        env:
+          # Optional PROFILE_TOKEN (a classic PAT, read:user) counts private contributions too;
+          # without it the built-in token is used and only public activity is drawn.
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+      - name: Draw the coding card
+        run: node .github/scripts/coding.mjs
+        env:
+          # WakaTime personal OAuth token (waka_tok_…, scope read_stats). Skipped when unset.
+          WAKATIME_ACCESS_TOKEN: ${{ secrets.WAKATIME_ACCESS_TOKEN }}
+      - name: Commit if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/activity-*.svg assets/coding-*.svg
+          git diff --cached --quiet || { git commit -m "Refresh live cards"; git push; }
