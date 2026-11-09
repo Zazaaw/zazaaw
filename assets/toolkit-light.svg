@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Toolkit — code: TypeScript &amp; JavaScript, Next.js &amp; React, Node.js · Go · Laravel, Supabase &amp; PostgreSQL, Flutter &amp; Dart, Docker &amp; Linux; design: Figma, Design systems, Motion &amp; micro-interactions, Brand identity, Typography &amp; layout; shoot: Event &amp; graduation photos, Aerial footage, Short-form video, Colour grading, Visual storytelling.">
+<title>Toolkit</title>
+<text x="0" y="52" style="font:italic 400 40px Georgia, 'Times New Roman', serif;fill:#0a0a0a">code</text>
+<text x="0" y="104" style="font:400 19px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#6e6e6e">TypeScript &amp; JavaScript</text>
+<text x="0" y="140" style="font:400 19px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#6e6e6e">Next.js &amp; React</text>
+<text x="0" y="176" style="font:400 19px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#6e6e6e">Node.js · Go · Laravel</text>
+<text x="0" y="212" style="font:400 19px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#6e6e6e">Supabase &amp; PostgreSQL</text>
+<text x="0" y="248" style="font:400 19px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#6e6e6e">Flutter &amp; Dart</text>
+<text x="0" y="284" style="font:400 19px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#6e6e6e">Docker &amp; Linux</text>
+<path d="M400 18V312" stroke="#e6e6e6" stroke-width="1.5"/><text x="436" y="52" style="font:italic 400 40px Georgia, 'Times New Roman', serif;fill:#0a0a0a">design</text>
+<text x="436" y="104" style="font:400 19px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#6e6e6e">Figma</text>
+<text x="436" y="140" style="font:400 19px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#6e6e6e">Design systems</text>
+<text x="436" y="176" style="font:400 19px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#6e6e6e">Motion &amp; micro-interactions</text>
+<text x="436" y="212" style="font:400 19px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#6e6e6e">Brand identity</text>
+<text x="436" y="248" style="font:400 19px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#6e6e6e">Typography &amp; layout</text>
+<path d="M800 18V312" stroke="#e6e6e6" stroke-width="1.5"/><text x="836" y="52" style="font:italic 400 40px Georgia, 'Times New Roman', serif;fill:#0a0a0a">shoot</text>
+<text x="836" y="104" style="font:400 19px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#6e6e6e">Event &amp; graduation photos</text>
+<text x="836" y="140" style="font:400 19px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#6e6e6e">Aerial footage</text>
+<text x="836" y="176" style="font:400 19px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#6e6e6e">Short-form video</text>
+<text x="836" y="212" style="font:400 19px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#6e6e6e">Colour grading</text>
+<text x="836" y="248" style="font:400 19px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#6e6e6e">Visual storytelling</text>
+</svg>
