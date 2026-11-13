@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="590" viewBox="0 0 1200 590" role="img" aria-label="658 hours of tracked coding. This week 42h 43m, daily average 6h 6m.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="590" viewBox="0 0 1200 590" role="img" aria-label="670 hours of tracked coding. This week 39h 40m, daily average 5h 40m.">
 <title>Coding time (WakaTime)</title>
 <style>
 .bar{animation:up .5s cubic-bezier(.2,.8,.2,1) backwards}
@@ -6,81 +6,81 @@
 @media (prefers-reduced-motion: reduce){*{animation:none!important}}
 </style>
 <rect x="1" y="1" width="1198" height="588" rx="26" fill="#0d1117" stroke="#262c36" stroke-width="1.5"/>
-<text x="56" y="98"><tspan style="font:italic 400 76px Georgia, 'Times New Roman', serif;fill:#f5f5f5">658</tspan><tspan style="font:italic 400 40px Georgia, 'Times New Roman', serif;fill:#f5f5f5"> hrs</tspan></text><text x="58" y="128" style="font:400 17px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">of tracked coding since April 2026</text>
-<text x="664" y="80" style="font:700 30px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f5f5f5;letter-spacing:-.5px">42h 43m</text><text x="664" y="104" style="font:400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">this week</text><text x="834" y="80" style="font:700 30px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f5f5f5;letter-spacing:-.5px">6h 6m</text><text x="834" y="104" style="font:400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">daily average</text><text x="1004" y="80" style="font:700 30px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f5f5f5;letter-spacing:-.5px">13h 17m</text><text x="1004" y="104" style="font:400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">best day · Tue</text>
+<text x="56" y="98"><tspan style="font:italic 400 76px Georgia, 'Times New Roman', serif;fill:#f5f5f5">670</tspan><tspan style="font:italic 400 40px Georgia, 'Times New Roman', serif;fill:#f5f5f5"> hrs</tspan></text><text x="58" y="128" style="font:400 17px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">of tracked coding since April 2026</text>
+<text x="664" y="80" style="font:700 30px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f5f5f5;letter-spacing:-.5px">39h 40m</text><text x="664" y="104" style="font:400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">this week</text><text x="834" y="80" style="font:700 30px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f5f5f5;letter-spacing:-.5px">5h 40m</text><text x="834" y="104" style="font:400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">daily average</text><text x="1004" y="80" style="font:700 30px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f5f5f5;letter-spacing:-.5px">13h 17m</text><text x="1004" y="104" style="font:400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">best day · Tue</text>
 <g class="bar" style="animation-delay:0.00s">
 <rect x="56.0" y="190" width="52" height="230" rx="10" fill="#1b222c"/>
-<rect x="56.0" y="375.6" width="52" height="44.4" rx="10" fill="#e6edf3" fill-opacity="0.85"/>
-<text x="82.0" y="365.6" text-anchor="middle" style="font:500 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">3.1h</text>
-<text x="82.0" y="448" text-anchor="middle" style="font:500 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">Fri</text>
+<rect x="56.0" y="326.4" width="52" height="93.6" rx="10" fill="#e6edf3" fill-opacity="0.85"/>
+<text x="82.0" y="316.4" text-anchor="middle" style="font:500 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">6.5h</text>
+<text x="82.0" y="448" text-anchor="middle" style="font:500 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">Sat</text>
 </g>
 <g class="bar" style="animation-delay:0.06s">
 <rect x="140.7" y="190" width="52" height="230" rx="10" fill="#1b222c"/>
-<rect x="140.7" y="326.4" width="52" height="93.6" rx="10" fill="#e6edf3" fill-opacity="0.85"/>
-<text x="166.7" y="316.4" text-anchor="middle" style="font:500 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">6.5h</text>
-<text x="166.7" y="448" text-anchor="middle" style="font:500 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">Sat</text>
+<rect x="140.7" y="327.9" width="52" height="92.1" rx="10" fill="#e6edf3" fill-opacity="0.85"/>
+<text x="166.7" y="317.9" text-anchor="middle" style="font:500 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">6.4h</text>
+<text x="166.7" y="448" text-anchor="middle" style="font:500 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">Sun</text>
 </g>
 <g class="bar" style="animation-delay:0.12s">
 <rect x="225.3" y="190" width="52" height="230" rx="10" fill="#1b222c"/>
-<rect x="225.3" y="327.9" width="52" height="92.1" rx="10" fill="#e6edf3" fill-opacity="0.85"/>
-<text x="251.3" y="317.9" text-anchor="middle" style="font:500 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">6.4h</text>
-<text x="251.3" y="448" text-anchor="middle" style="font:500 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">Sun</text>
+<rect x="225.3" y="324.4" width="52" height="95.6" rx="10" fill="#e6edf3" fill-opacity="0.85"/>
+<text x="251.3" y="314.4" text-anchor="middle" style="font:500 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">6.7h</text>
+<text x="251.3" y="448" text-anchor="middle" style="font:500 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">Mon</text>
 </g>
 <g class="bar" style="animation-delay:0.18s">
 <rect x="310.0" y="190" width="52" height="230" rx="10" fill="#1b222c"/>
-<rect x="310.0" y="324.4" width="52" height="95.6" rx="10" fill="#e6edf3" fill-opacity="0.85"/>
-<text x="336.0" y="314.4" text-anchor="middle" style="font:500 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">6.7h</text>
-<text x="336.0" y="448" text-anchor="middle" style="font:500 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">Mon</text>
+<rect x="310.0" y="230.0" width="52" height="190.0" rx="10" fill="#22c55e" fill-opacity="1"/>
+<text x="336.0" y="220.0" text-anchor="middle" style="font:500 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">13.3h</text>
+<text x="336.0" y="448" text-anchor="middle" style="font:500 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f5f5f5">Tue</text>
 </g>
 <g class="bar" style="animation-delay:0.24s">
 <rect x="394.7" y="190" width="52" height="230" rx="10" fill="#1b222c"/>
-<rect x="394.7" y="230.0" width="52" height="190.0" rx="10" fill="#22c55e" fill-opacity="1"/>
-<text x="420.7" y="220.0" text-anchor="middle" style="font:500 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">13.3h</text>
-<text x="420.7" y="448" text-anchor="middle" style="font:500 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f5f5f5">Tue</text>
+<rect x="394.7" y="315.8" width="52" height="104.2" rx="10" fill="#e6edf3" fill-opacity="0.85"/>
+<text x="420.7" y="305.8" text-anchor="middle" style="font:500 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">7.3h</text>
+<text x="420.7" y="448" text-anchor="middle" style="font:500 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">Wed</text>
 </g>
 <g class="bar" style="animation-delay:0.30s">
 <rect x="479.3" y="190" width="52" height="230" rx="10" fill="#1b222c"/>
-<rect x="479.3" y="315.8" width="52" height="104.2" rx="10" fill="#e6edf3" fill-opacity="0.85"/>
-<text x="505.3" y="305.8" text-anchor="middle" style="font:500 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">7.3h</text>
-<text x="505.3" y="448" text-anchor="middle" style="font:500 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">Wed</text>
+<rect x="479.3" y="350.0" width="52" height="70.0" rx="10" fill="#e6edf3" fill-opacity="0.85"/>
+<text x="505.3" y="340.0" text-anchor="middle" style="font:500 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">4.9h</text>
+<text x="505.3" y="448" text-anchor="middle" style="font:500 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">Thu</text>
 </g>
 <g class="bar" style="animation-delay:0.36s">
 <rect x="564.0" y="190" width="52" height="230" rx="10" fill="#1b222c"/>
-<rect x="564.0" y="400.7" width="52" height="19.3" rx="10" fill="#e6edf3" fill-opacity="0.85"/>
-<text x="590.0" y="390.7" text-anchor="middle" style="font:500 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">1.4h</text>
-<text x="590.0" y="448" text-anchor="middle" style="font:500 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">Thu</text>
+<rect x="564.0" y="416.0" width="52" height="4.0" rx="10" fill="#e6edf3" fill-opacity="0.85"/>
+<text x="590.0" y="406.0" text-anchor="middle" style="font:500 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">6m</text>
+<text x="590.0" y="448" text-anchor="middle" style="font:500 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">Fri</text>
 </g>
 <text x="690" y="208" style="font:italic 400 24px Georgia, 'Times New Roman', serif;fill:#f5f5f5">languages</text><text x="690" y="241" style="font:400 15px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f5f5f5">TypeScript</text>
 <rect x="840" y="232" width="190" height="8" rx="4" fill="#1b222c"/>
-<rect x="840" y="232" width="81.9" height="8" rx="4" fill="#e6edf3" fill-opacity=".85"/>
+<rect x="840" y="232" width="82.6" height="8" rx="4" fill="#e6edf3" fill-opacity=".85"/>
 <text x="1144" y="241" text-anchor="end" style="font:400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">43%</text>
 <text x="690" y="267" style="font:400 15px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f5f5f5">Other</text>
 <rect x="840" y="258" width="190" height="8" rx="4" fill="#1b222c"/>
-<rect x="840" y="258" width="30.7" height="8" rx="4" fill="#e6edf3" fill-opacity=".85"/>
-<text x="1144" y="267" text-anchor="end" style="font:400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">16%</text>
+<rect x="840" y="258" width="32.9" height="8" rx="4" fill="#e6edf3" fill-opacity=".85"/>
+<text x="1144" y="267" text-anchor="end" style="font:400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">17%</text>
 <text x="690" y="293" style="font:400 15px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f5f5f5">JavaScript</text>
 <rect x="840" y="284" width="190" height="8" rx="4" fill="#1b222c"/>
-<rect x="840" y="284" width="25.8" height="8" rx="4" fill="#e6edf3" fill-opacity=".85"/>
-<text x="1144" y="293" text-anchor="end" style="font:400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">14%</text>
+<rect x="840" y="284" width="24.9" height="8" rx="4" fill="#e6edf3" fill-opacity=".85"/>
+<text x="1144" y="293" text-anchor="end" style="font:400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">13%</text>
 <text x="690" y="319" style="font:400 15px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f5f5f5">Markdown</text>
 <rect x="840" y="310" width="190" height="8" rx="4" fill="#1b222c"/>
-<rect x="840" y="310" width="25.1" height="8" rx="4" fill="#e6edf3" fill-opacity=".85"/>
-<text x="1144" y="319" text-anchor="end" style="font:400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">13%</text>
+<rect x="840" y="310" width="23.7" height="8" rx="4" fill="#e6edf3" fill-opacity=".85"/>
+<text x="1144" y="319" text-anchor="end" style="font:400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">12%</text>
 <text x="690" y="360" style="font:italic 400 24px Georgia, 'Times New Roman', serif;fill:#f5f5f5">editors</text><text x="690" y="393" style="font:400 15px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f5f5f5">Claude Code</text>
 <rect x="840" y="384" width="190" height="8" rx="4" fill="#1b222c"/>
-<rect x="840" y="384" width="174.0" height="8" rx="4" fill="#e6edf3" fill-opacity=".85"/>
-<text x="1144" y="393" text-anchor="end" style="font:400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">92%</text>
+<rect x="840" y="384" width="172.9" height="8" rx="4" fill="#e6edf3" fill-opacity=".85"/>
+<text x="1144" y="393" text-anchor="end" style="font:400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">91%</text>
 <text x="690" y="419" style="font:400 15px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f5f5f5">VS Code</text>
 <rect x="840" y="410" width="190" height="8" rx="4" fill="#1b222c"/>
-<rect x="840" y="410" width="16.0" height="8" rx="4" fill="#e6edf3" fill-opacity=".85"/>
-<text x="1144" y="419" text-anchor="end" style="font:400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">8%</text>
+<rect x="840" y="410" width="17.1" height="8" rx="4" fill="#e6edf3" fill-opacity=".85"/>
+<text x="1144" y="419" text-anchor="end" style="font:400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">9%</text>
 <text x="690" y="460" style="font:italic 400 24px Georgia, 'Times New Roman', serif;fill:#f5f5f5">system</text><text x="690" y="493" style="font:400 15px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f5f5f5">macOS</text>
 <rect x="840" y="484" width="190" height="8" rx="4" fill="#1b222c"/>
-<rect x="840" y="484" width="138.2" height="8" rx="4" fill="#e6edf3" fill-opacity=".85"/>
-<text x="1144" y="493" text-anchor="end" style="font:400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">73%</text>
+<rect x="840" y="484" width="135.0" height="8" rx="4" fill="#e6edf3" fill-opacity=".85"/>
+<text x="1144" y="493" text-anchor="end" style="font:400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">71%</text>
 <text x="690" y="519" style="font:400 15px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f5f5f5">Windows</text>
 <rect x="840" y="510" width="190" height="8" rx="4" fill="#1b222c"/>
-<rect x="840" y="510" width="51.8" height="8" rx="4" fill="#e6edf3" fill-opacity=".85"/>
-<text x="1144" y="519" text-anchor="end" style="font:400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">27%</text>
+<rect x="840" y="510" width="55.0" height="8" rx="4" fill="#e6edf3" fill-opacity=".85"/>
+<text x="1144" y="519" text-anchor="end" style="font:400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">29%</text>
 <text x="56" y="550" style="font:400 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#9198a1">Last 7 days · via WakaTime</text>
 </svg>
